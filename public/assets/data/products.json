@@ -1,0 +1,98 @@
+{
+  "categories": [
+    {
+      "id": "drama",
+      "name": "Drama",
+      "products": [
+        {
+          "id": "LIB-DRAMA-01",
+          "title": "La casa de las voces",
+          "description": "Una familia se muda a una antigua casa donde los secretos del pasado nunca descansan.",
+          "year": 2019,
+          "price": 18.5,
+          "stock": 7,
+          "image": "assets/data/img/la casa de las voces.jpeg"
+        },
+        {
+          "id": "LIB-DRAMA-02",
+          "title": "El invierno más largo",
+          "description": "Dos hermanos se reencuentran tras años de silencio para ajustar cuentas con su historia.",
+          "year": 2021,
+          "price": 20.0,
+          "stock": 5,
+          "image": "assets/data/img/El invierno más largo.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "suspenso",
+      "name": "Suspenso",
+      "products": [
+        {
+          "id": "LIB-SUSP-01",
+          "title": "La última habitación",
+          "description": "Un detective debe resolver una serie de crímenes conectados con un misterioso hotel.",
+          "year": 2018,
+          "price": 17.9,
+          "stock": 6,
+          "image": "assets/data/img/La última habitación.jpeg"
+        },
+        {
+          "id": "LIB-SUSP-02",
+          "title": "El expediente perdido",
+          "description": "Un archivo desaparecido pone en jaque a todo un ministerio y a quien se atreve a buscarlo.",
+          "year": 2020,
+          "price": 19.5,
+          "stock": 4,
+          "image": "assets/data/img/el expediente perdido.jpeg"
+        }
+      ]    },
+    {
+      "id": "terror",
+      "name": "Terror",
+      "products": [
+        {
+          "id": "LIB-TERR-01",
+          "title": "No apagues la luz",
+          "description": "En un pequeño pueblo, una sombra comienza a visitar a quienes duermen con la luz apagada.",
+          "year": 2017,
+          "price": 16.0,
+          "stock": 8,
+          "image": "assets/data/img/No apagues la luz.jpeg"
+        },
+        {
+          "id": "LIB-TERR-02",
+          "title": "Bosque de medianoche",
+          "description": "Un grupo de amigos se adentra en un bosque del que, según la leyenda, nadie regresa igual.",
+          "year": 2022,
+          "price": 21.0,
+          "stock": 3,
+          "image": "assets/data/img/Bosque de medianoche.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "accion",
+      "name": "Acción",
+      "products": [
+        {
+          "id": "LIB-ACC-01",
+          "title": "Operación Horizonte",
+          "description": "Una analista de datos descubre un complot internacional y debe convertirse en agente improvisada.",
+          "year": 2019,
+          "price": 18.9,
+          "stock": 9,
+          "image": "assets/data/img/Operación Horizonte.jpeg"
+        },
+        {
+          "id": "LIB-ACC-02",
+          "title": "Carrera contra el tiempo",
+          "description": "Doce horas para evitar un ataque que cambiará el mapa político del mundo.",
+          "year": 2023,
+          "price": 22.0,
+          "stock": 4,
+          "image": "assets/data/img/Carrera contra el tiempo.jpeg"
+        }
+      ]    }
+  ]
+}
